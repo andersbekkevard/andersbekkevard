@@ -25,7 +25,7 @@ My main interests are **technology and finance**, and I am currently exploring t
 
 ---
 
-### Want to get in touch quickly? Just run this in your terminal:
+### 🪪 Want to get in touch quickly? Check out my terminal business card by running:
 
 ```bash
 npx andersbekkevard

@@ -2,7 +2,7 @@
 
 I'm **Anders Bekkevard**, a second-year student of **Industrial Economics and Technology Management (Indøk)** at **NTNU**, specializing in **Computer Science**.  
 
-My main interests are **technology and finance**, and I am currently exploring the fields of **data science**, **machine learning**, and **software engineering**.
+My main interests are **technology and finance**, and I am currently exploring the fields of **data science**, **machine learning**, and general **software engineering**.
 
 ---
 

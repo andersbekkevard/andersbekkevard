@@ -20,7 +20,7 @@ My main interests are technology and finance, and I am currently exploring the f
 
 - 📈 Java Backtester – A simple backtesting framework for trading strategies  
 - 🌾 [Heiderød.no](https://heiderod.no) – Website for my family farm, built with React + TypeScript
-- 📚 Library Management System – Java OOP system for managing books and users
+- 📚 Library Management System – Java OOP system for managing books and reading histories
 - 🎨 Mandelbrot Performance Tester – Benchmark tool for comparing different rendering approaches
 
 ---

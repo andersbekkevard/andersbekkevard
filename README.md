@@ -1,4 +1,4 @@
-# 👋 Hello there!
+# 👋 Hi!
 
 I'm Anders Bekkevard, a second-year student of Industrial Economics and Technology Management (Indøk) at NTNU, specializing in Computer Science.  
 

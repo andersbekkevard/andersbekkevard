@@ -6,22 +6,22 @@ My main interests are technology and finance, and I am currently exploring the f
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 - Studying at NTNU (2024–2029)
 - Currently developing an online course for TDT4100 (Object-Oriented Programming) at [EnkelEksamen](https://enkeleksamen.no)
-- Favorite languages: Python 🐍 and Java ☕  
-- Experimenting with: TypeScript, and vibecoding in Rust 🎧🦀
+- Favorite languages: Python and Java 
+- Experimenting with: TypeScript, and vibecoding in Rust
 - Interested in: Finance, Data Science, ML, Backend Developement
 
 ---
 
-## 🧰 Notable Projects
+## Notable Projects
 
-- 📈 Java Backtester – A simple backtesting framework for trading strategies  
-- 🌾 [Heiderød.no](https://heiderod.no) – Website for my family farm, built with React + TypeScript
-- 📚 Library Management System – Java OOP system for managing books and reading histories
-- 🎨 Mandelbrot Performance Tester – Benchmark tool for comparing different rendering approaches
+- Java Backtester – A simple backtesting framework for trading strategies  
+- [Heiderød.no](https://heiderod.no) – Website for my family farm, built with React + TypeScript
+- Library Management System – Java OOP system for managing books and reading histories
+- Mandelbrot Performance Tester – Benchmark tool for comparing different rendering approaches
 
 ---
 

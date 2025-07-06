@@ -18,10 +18,10 @@ My main interests are technology and finance, and I am currently exploring the f
 
 ## Notable Projects
 
-- [Java Backtester] (https://github.com/andersbekkevard/backtester_java) – A simple backtesting framework for trading strategies  
+- [Java Backtester](https://github.com/andersbekkevard/backtester_java) – A simple backtesting framework for trading strategies  
 - [Heiderød.no](https://heiderod.no) – Website for my family farm, built with React + TypeScript
-- [Librarium] (https://github.com/andersbekkevard/librarium-app) - A web application for managing personal book collections and tracking reading progress.
-- [Mandelbrot Performance Tester] (https://github.com/andersbekkevard/mandelbrot) – Benchmark tool for comparing different rendering approaches
+- [Librarium](https://github.com/andersbekkevard/librarium-app) - A web application for managing personal book collections and tracking reading progress.
+- [Mandelbrot Performance Tester](https://github.com/andersbekkevard/mandelbrot) – Benchmark tool for comparing different rendering approaches
 
 ---
 

@@ -15,12 +15,14 @@ My main interests are technology and finance, and I am currently exploring the f
 - Interested in: Finance, Data Science, ML, Backend Developement
 
 ---
+## Current Project
+- [Librarium](https://github.com/andersbekkevard/librarium-app) - A web application for managing personal book collections and tracking reading progress.
+  Check it out at [this link](https://librarium-app.vercel.app/dashboard)
 
-## Notable Projects
 
+## Older Projects
 - [Java Backtester](https://github.com/andersbekkevard/backtester_java) – A simple backtesting framework for trading strategies  
 - [Heiderød.no](https://heiderod.no) – Website for my family farm, built with React + TypeScript
-- [Librarium](https://github.com/andersbekkevard/librarium-app) - A web application for managing personal book collections and tracking reading progress.
 - [Mandelbrot Performance Tester](https://github.com/andersbekkevard/mandelbrot) – Benchmark tool for comparing different rendering approaches
 
 ---

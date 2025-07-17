@@ -12,7 +12,7 @@ My main interests are technology and finance, and I am currently exploring the f
 - Studying at NTNU (2024–2029)
 - Currently developing an online course for TDT4100 (Object-Oriented Programming) at [EnkelEksamen](https://enkeleksamen.no)
 - Favorite languages: Python and Java 
-- Experimenting with: TypeScript, and vibecoding in Rust
+- Experimenting with TypeScript, and vibecoding in Rust
 - Interested in: Finance, Data Science, ML, Backend Developement
 
 ---

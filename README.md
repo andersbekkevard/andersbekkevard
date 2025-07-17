@@ -34,8 +34,9 @@ I am currently engaged as Head of Portfolio for Indøk Finance Club
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://github.com/andersbekkevard/mandelbrot) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)]([#](https://github.com/andersbekkevard/backtester_java)) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://github.com/andersbekkevard/librarium-app)
 
 ## Technologies
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://github.com/andersbekkevard/librarium-app) [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](https://github.com/andersbekkevard/librarium-app) [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](https://github.com/andersbekkevard/librarium-app) [![TailwindCSS] ![Maven](https://img.shields.io/badge/-Maven-1d2e53?style=flat-square&logo=maven&logoColor=white)
-(https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](https://github.com/andersbekkevard/librarium-app) [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://github.com/andersbekkevard/librarium-app) [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](https://github.com/andersbekkevard/librarium-app) [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](https://github.com/andersbekkevard/librarium-app) [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](https://github.com/andersbekkevard/librarium-app) 
+![Maven](https://img.shields.io/badge/-Maven-1d2e53?style=flat-square&logo=maven&logoColor=white)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 
 
 ### 🪪 Want to get in touch quickly? Check out my terminal business card by running:

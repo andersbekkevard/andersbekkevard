@@ -6,7 +6,7 @@ My main interests are technology and finance, and right now I'm exploring the fi
 
 I am currently engaged as Head of Portfolio for Indøk Finance Club 
 
-[![InFi](https://img.shields.io/badge/-InFi-1d2e53?style=for-the-badge)](https://indokfinans.no/home)    [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/anders-bekkevard-a41b451b5/)
+[![InFi - Indøk Finance Club](https://img.shields.io/badge/-InFi-1d2e53?style=flat-square)](https://indokfinans.no/home)    [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/anders-bekkevard-a41b451b5/)
 ---
 
 ##  About Me

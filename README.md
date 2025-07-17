@@ -28,7 +28,7 @@ My main interests are technology and finance, and I am currently exploring the f
 ---
 
 ## Technologies
-[![Firebase Studio](https://custom-icon-badges.demolab.com/badge/Firebase%20Studio-F66C21?logo=firebase-studio&logoColor=fff)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#) [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 
 ### 🪪 Want to get in touch quickly? Check out my terminal business card by running:
 

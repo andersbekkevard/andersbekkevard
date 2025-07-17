@@ -2,12 +2,11 @@
 
 I'm Anders Bekkevard, a second-year student of Industrial Economics and Technology Management (Indøk) at NTNU, specializing in Computer Science.  
 
-My main interests are technology and finance, and I am currently exploring the fields of data science, machine learning, and general software engineering.
-I am currently engaged as Head of Portfolio for Indøk Finance Club [![InFi](https://img.shields.io/badge/-InFi-1d2e53?style=for-the-badge)](https://indokfinans.no/home)
+My main interests are technology and finance, and right now I'm exploring the fields of data science, machine learning, and general software engineering.
 
+I am currently engaged as Head of Portfolio for Indøk Finance Club 
 
-
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/anders-bekkevard-a41b451b5/)
+[![InFi](https://img.shields.io/badge/-InFi-1d2e53?style=for-the-badge)](https://indokfinans.no/home) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/anders-bekkevard-a41b451b5/)
 ---
 
 ##  About Me

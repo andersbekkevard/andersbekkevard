@@ -4,6 +4,7 @@ I'm Anders Bekkevard, a second-year student of Industrial Economics and Technolo
 
 My main interests are technology and finance, and I am currently exploring the fields of data science, machine learning, and general software engineering.
 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/anders-bekkevard-a41b451b5/)
 ---
 
 ##  About Me
@@ -33,8 +34,6 @@ My main interests are technology and finance, and I am currently exploring the f
 ## Technologies
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://github.com/andersbekkevard/librarium-app) [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](https://github.com/andersbekkevard/librarium-app) [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](https://github.com/andersbekkevard/librarium-app) [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](https://github.com/andersbekkevard/librarium-app) [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 
-
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/anders-bekkevard-a41b451b5/)
 
 ### 🪪 Want to get in touch quickly? Check out my terminal business card by running:
 

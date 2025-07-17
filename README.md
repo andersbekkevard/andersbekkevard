@@ -27,6 +27,9 @@ My main interests are technology and finance, and I am currently exploring the f
 
 ---
 
+## Technologies
+[![Firebase Studio](https://custom-icon-badges.demolab.com/badge/Firebase%20Studio-F66C21?logo=firebase-studio&logoColor=fff)](#)
+
 ### 🪪 Want to get in touch quickly? Check out my terminal business card by running:
 
 ```bash

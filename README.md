@@ -20,6 +20,7 @@ I am currently engaged as Head of Portfolio for Indøk Finance Club
 ---
 ## Current Project
 - [Librarium](https://github.com/andersbekkevard/librarium-app) - A web application for managing personal book collections and tracking reading progress.
+  Features: AI-assistant, Reading Statistics, Barcode Scanning, Google Books API Integration
   Check it out at [this link](https://librarium-app.vercel.app/dashboard)
 
 

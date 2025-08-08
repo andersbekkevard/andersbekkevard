@@ -14,7 +14,7 @@ I am currently engaged as Head of Portfolio for Indøk Finance Club
 - Studying at NTNU (2024–2029)
 - Currently developing an online course for TDT4100 (Object-Oriented Programming) at [EnkelEksamen](https://enkeleksamen.no)
 - Favorite languages: Python and Java 
-- Experimenting with TypeScript, and vibecoding in Rust
+- Experimenting with [TypeScript](https://github.com/andersbekkevard/librarium-app) and [Rust](https://github.com/andersbekkevard/advent_of_code)
 - Interested in: Finance, Data Science, ML, Backend Developement
 
 ---

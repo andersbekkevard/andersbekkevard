@@ -39,7 +39,7 @@ I am currently engaged as Head of Portfolio for Indøk Finance Club
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 
 
-### 🪪 Want to get in touch quickly? Check out my terminal business card by running:
+### Want to get in touch quickly? Check out my terminal business card by running:
 
 ```bash
 npx andersbekkevard

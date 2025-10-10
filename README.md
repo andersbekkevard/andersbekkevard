@@ -4,15 +4,15 @@ I'm Anders Bekkevard, a second-year student of Industrial Economics and Technolo
 
 My main interests are technology and finance, and right now I'm exploring machine learning and software engineering.
 
-I am currently engaged as Head of Portfolio for Indøk Finance Club 
 
-[![InFi, Indøk Finance Club](https://img.shields.io/badge/-InFi-1d2e53?style=flat-square)](https://indokfinans.no/home)    [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/anders-bekkevard-a41b451b5/)
+
+
 ---
 
 ##  About Me
 
 - Studying at NTNU (2024–2029)
-- Currently developing an online course for TDT4100 (Object-Oriented Programming) at [EnkelEksamen](https://enkeleksamen.no)
+- I am currently engaged as Head of Portfolio for Indøk Finance Club [![InFi, Indøk Finance Club](https://img.shields.io/badge/-InFi-1d2e53?style=flat-square)](https://indokfinans.no/home)    [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/anders-bekkevard-a41b451b5/)
 - Favorite languages: Python and Java 
 - Experimenting with [TypeScript](https://github.com/andersbekkevard/librarium-app) and [Rust](https://github.com/andersbekkevard/advent_of_code)
 - Interested in: Finance, Data Science, ML, Backend Developement

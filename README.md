@@ -18,12 +18,12 @@ See more of what I’m building and writing at [bekkevard.me](https://bekkevard.
 
 ## Side projects
 - **[mandelbrot](https://github.com/andersbekkevard/mandelbrot)** — benchmarking different approaches to rendering the Mandelbrot set.
-- [dotfiles](https://github.com/andersbekkevard/dotfiles)
-- [raycast_scripts](https://github.com/andersbekkevard/raycast_scripts)
-- [note2flash](https://github.com/andersbekkevard/note2flash)
-- [advent_of_code](https://github.com/andersbekkevard/advent_of_code)
-- [card](https://github.com/andersbekkevard/card)
-- [panopto](https://github.com/andersbekkevard/panopto)
-- [heiderod](https://github.com/andersbekkevard/heiderod)
-- [linalg](https://github.com/andersbekkevard/linalg)
-- [backtester_java](https://github.com/andersbekkevard/backtester_java)
+- **[dotfiles](https://github.com/andersbekkevard/dotfiles)** — my personal development environment managed with GNU Stow.
+- **[raycast_scripts](https://github.com/andersbekkevard/raycast_scripts)** — small Raycast automations, mainly for jumping between browser tabs by URL pattern.
+- **[note2flash](https://github.com/andersbekkevard/note2flash)** — converts highlighted reMarkable PDF exports into Anki cloze cards.
+- **[advent_of_code](https://github.com/andersbekkevard/advent_of_code)** — using Advent of Code to learn new languages, especially Rust.
+- **[card](https://github.com/andersbekkevard/card)** — a small terminal business card you can run with `npx andersbekkevard`.
+- **[panopto](https://github.com/andersbekkevard/panopto)** — downloads lecture audio and transcribes it with local Whisper models or the OpenAI API.
+- **[heiderod](https://github.com/andersbekkevard/heiderod)** — website for my family farm, built with React and TypeScript.
+- **[linalg](https://github.com/andersbekkevard/linalg)** — a Java linear algebra library for matrix operations, vector spaces, and projections.
+- **[backtester_java](https://github.com/andersbekkevard/backtester_java)** — a modular backtesting engine for financial trading strategies written in Java.

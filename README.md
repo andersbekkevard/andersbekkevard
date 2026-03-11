@@ -1,47 +1,20 @@
-# 👋 Hi!
+# Anders Bekkevard
 
-I'm Anders Bekkevard, a second-year student of Industrial Economics and Technology Management (Indøk) at NTNU, specializing in Computer Science.  
+NTNU student. I spend most of my time building software and experimenting with AI systems.
 
-My main interests are technology and finance, and right now I'm exploring machine learning and software engineering.
+I’m mainly interested in agent systems, developer tools, backend architecture, and products that are more system than demo.
 
-I am currently engaged as Head of Portfolio for Indøk Finance Club
-[![InFi, Indøk Finance Club](https://img.shields.io/badge/-InFi-1d2e53?style=flat-square)](https://indokfinans.no/home)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/anders-bekkevard-a41b451b5/)
+## Selected work
 
+- **[AOC Agent Harness](https://github.com/andersbekkevard/manual_ai_agent)** — a local-first agent runtime in vanilla Python with constrained tools, resumable runs, explicit context/memory handling, and support for both cloud and self-hosted models.
+- **[Librarium](https://github.com/andersbekkevard/librarium-app)** — a full product for managing books and reading, with auth, backend infrastructure, Google Books integration, barcode scanning, analytics, and AI-assisted features.
+- **OpenClaw workflow** — building a multi-agent setup with Discord routing, isolated session contexts, webhook wakeups, cron workflows, and coding/research automation.
 
----
+Smaller side project: **[mandelbrot](https://github.com/andersbekkevard/mandelbrot)** — benchmarking different approaches to rendering the Mandelbrot set.
 
-##  About Me
+## Elsewhere
 
-- Studying at NTNU (2024–2029)
-- Favorite languages: Python and Java 
-- Experimenting with [TypeScript](https://github.com/andersbekkevard/librarium-app) and [Rust](https://github.com/andersbekkevard/advent_of_code)
-- Interested in: Finance, Data Science, ML, Backend Developement
+- [LinkedIn](https://www.linkedin.com/in/anders-bekkevard-a41b451b5/)
+- Head of Portfolio at [Indøk Finance Club](https://indokfinans.no/home)
 
----
-## Current Project
-- [Librarium](https://github.com/andersbekkevard/librarium-app) - A full stack web application for managing personal book collections and tracking reading progress. Check it out at [this link](https://librarium-app.vercel.app/dashboard) Features: AI-assistant, Reading Statistics, Barcode Scanning, Google Books API Integration
-
-
-
-## Older Projects
-- [Java Backtester](https://github.com/andersbekkevard/backtester_java) – A simple backtesting framework for trading strategies  
-- [Heiderød.no](https://heiderod.no) – Website for my family farm, built with React + TypeScript
-- [Mandelbrot Performance Tester](https://github.com/andersbekkevard/mandelbrot) – Benchmark tool for comparing different rendering approaches
-
----
-
-## Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://github.com/andersbekkevard/mandelbrot) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)]([#](https://github.com/andersbekkevard/backtester_java)) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://github.com/andersbekkevard/librarium-app)
-
-## Technologies
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://github.com/andersbekkevard/librarium-app) [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](https://github.com/andersbekkevard/librarium-app) [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](https://github.com/andersbekkevard/librarium-app) [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](https://github.com/andersbekkevard/librarium-app) 
-![Maven](https://img.shields.io/badge/-Maven-1d2e53?style=flat-square&logo=maven&logoColor=white)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
-
-
-### Want to get in touch quickly? Check out my terminal business card by running:
-
-```bash
-npx andersbekkevard
-```
+See more of what I’m building and writing at [bekkevard.me](https://bekkevard.me).

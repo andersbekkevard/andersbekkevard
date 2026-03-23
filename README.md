@@ -4,6 +4,8 @@ NTNU student. I spend a lot of my time building software and experimenting with 
 
 I’m mainly interested in agent systems right now, but make everything!
 
+March 2026 my team placed 4th out of 500 teams in the Norwegian AI Championship after a 69-hour sprint building competitive AI systems. We peaked at #3 on the leaderboard and finished 0.2% off 2nd place.
+
 ## Selected work
 
 - 🤖 **[AOC Agent Harness](https://github.com/andersbekkevard/manual_ai_agent)** — a local-first agent runtime in vanilla Python with constrained tools, resumable runs, explicit context/memory handling, and support for both cloud and self-hosted models.

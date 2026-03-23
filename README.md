@@ -2,8 +2,8 @@
 
 ## About Me
 
-- 🎓 Studying Industrial Economics with CS at NTNU
-- 🛠️ Primary interests: agentic AI, developer tools, and full-stack
+- Studying Industrial Economics with CS at NTNU
+- Primary interests: agentic AI, developer tools, and full-stack
 - 🏆 [4th place](https://app.ainm.no/leaderboard) in the [Norwegian AI Championship](https://www.linkedin.com/company/norwegian-ai-competition/posts/?feedView=all) 2026 out of 500 teams
 
 ## Selected work

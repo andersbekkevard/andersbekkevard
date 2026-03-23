@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🎓 Industrial Economics + CS @ NTNU
+- 🎓 Studying Industrial Economics with CS at NTNU
 - 🤖 Primary interests: agentic AI, developer tools, and full-stack
 - 🏆 4th place in the Norwegian AI Championship 2026 out of 500 teams
 

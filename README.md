@@ -1,10 +1,10 @@
-# 👋 Hi!
+# 👋 Hi! 
 
-NTNU student. I spend a lot of my time building software and experimenting with AI systems.
+## About Me
 
-I’m mainly interested in agent systems right now, but make everything!
-
-March 2026 my team placed 4th out of 500 teams in the Norwegian AI Championship after a 69-hour sprint building competitive AI systems. We peaked at #3 on the leaderboard and finished 0.2% off 2nd place.
+- 🎓 Industrial Economics + CS @ NTNU
+- 🤖 Primary interests: agentic AI, developer tools, and full-stack
+- 🏆 4th place in the Norwegian AI Championship 2026 out of 500 teams
 
 ## Selected work
 

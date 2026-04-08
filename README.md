@@ -10,7 +10,7 @@
 
 - **[AOC Agent Harness](https://github.com/andersbekkevard/manual_ai_agent)** — a local-first agent runtime in vanilla Python with constrained tools, resumable runs, explicit context/memory handling, and support for both cloud and self-hosted models.
 - **[Librarium](https://github.com/andersbekkevard/librarium-app)** — a full product for managing books and reading, with auth, backend infrastructure, Google Books integration, barcode scanning, analytics, and AI-assisted features.
-- **OpenClaw workflow** — building a multi-agent setup with Discord routing, isolated session contexts, webhook wakeups, cron workflows, and coding/research automation. As part of this process, we made **[Logpulse](https://github.com/andersbekkevard/openclaw-logpulse)** which is a rust TUI for viewing and tracing tool calls, made with ratatui.
+- **OpenClaw workflow** — building a multi-agent setup with Discord routing, isolated session contexts, webhook wakeups, cron workflows, and coding/research automation. As part of this process, we made **[logpulse](https://github.com/andersbekkevard/openclaw-logpulse)** which is a rust TUI for viewing and tracing tool calls, made with ratatui.
 
 See more of what I’m building and writing at [bekkevard.me](https://bekkevard.me).
 ## Elsewhere

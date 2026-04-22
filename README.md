@@ -21,7 +21,7 @@ See more of what I’m building and writing at [bekkevard.me](https://bekkevard.
 ## Side projects
 - **[mandelbrot](https://github.com/andersbekkevard/mandelbrot)** — benchmarking different approaches to rendering the Mandelbrot set.
 - **[dotfiles](https://github.com/andersbekkevard/dotfiles)** — my personal development environment managed with GNU Stow.
-- **[pdf_viewer](https://github.com/andersbekkevard/pdf_viewer)** — a keyboard-native PDF reader that renders PDFs as HTML so Vimium can drive them, wrapped in a FastAPI cache daemon and Comet extension so every `.pdf` link opens in the viewer automatically.
+- **[pdf_viewer](https://github.com/andersbekkevard/pdf_viewer)** — a keyboard-native PDF reader that renders PDFs as HTML so Vimium can drive them.
 - **[raycast_scripts](https://github.com/andersbekkevard/raycast_scripts)** — small Raycast automations, mainly for jumping between browser tabs by URL pattern.
 - **[note2flash](https://github.com/andersbekkevard/note2flash)** — converts highlighted reMarkable PDF exports into Anki cloze cards.
 - **[advent_of_code](https://github.com/andersbekkevard/advent_of_code)** — using Advent of Code to learn new languages, especially Rust.
